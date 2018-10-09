@@ -2,3 +2,6 @@ Project motivation: analyze the reviews of popular Broadway shows on TripAdvisor
 
 Scraped ~20,000 reviews of popular Broadway musicals from tripadvisor.com by Scrapy. 
 Use Text-Mining/Wordcloud in python to explore the relationship between the feedback from the audiences and the characteristics of the shows. 
+
+Please check the blog post of this project for more details:
+https://nycdatascience.com/blog/student-works/a-travellers-guide-to-broadway-musicals-from-travellers-perspective/
